@@ -1,0 +1,14 @@
+{
+  "name": "cinnamonlab/log",
+  "require": {
+    "php": ">=5.5.9",
+    "monolog/monolog": "@stable",
+    "cinnamonlab/framework":"dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Framework\\Log\\": ""
+    }
+  },
+  "minimum-stability": "dev"
+}
