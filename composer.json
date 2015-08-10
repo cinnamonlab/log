@@ -7,7 +7,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Framework\\Log\\": ""
+      "Framework\\Log\\": "src/Framework/Log"
     }
   },
   "minimum-stability": "dev"
